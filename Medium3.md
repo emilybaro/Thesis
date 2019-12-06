@@ -1,2 +1,1 @@
-
-<img src="https://github.com/emilybaro/Thesis/medium_3.jpg" width="170" height = "370"/>
+<img src="https://github.com/emilybaro/Thesis/blob/master/Medium_3.jpg" width="1000" height = "1000"/>
